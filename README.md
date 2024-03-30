@@ -1,4 +1,4 @@
-# Linguagens-de-Programa-o
+# Linguagens-de-Programação
 Essa pasta estão o projetos desenvolvido na disciplina de Linguagem de Programação da faculdade Newton Paiva.
 
 O projeto da Loteria foi utilizados a versão JDK-17 e as blibliotecas: Scanner, Randon e IOException.
